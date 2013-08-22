@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377195672000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1377195672000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1377195672000 338 61b299caef67df2c1ff6c65925574245144caeef /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/values-v11/values.xml
+1377195671000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377195672000 269 105dabc269ac97c404bd652f3a6f27b592050c5e /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/values-sw720dp-land/values.xml
+1377196359000 996 83c180181972540f5c0ebc296f8934fc6d305a8e /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/layout/activity_main.xml
+1377197384000 565 90b3afd4154dc8a96c317682e7dd4f93f9b6aefc /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/layout/activity_texture_view.xml
+1377195671000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377195672000 352 708e2bb699a4d0f3f1871189c2ac109ba80bf364 /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/values-v14/values.xml
+1377196642000 1260 347e94e0df7207fac48655693773bae8a985bf73 /Users/chroman/AndroidStudioProjects/TextureViewDemoProject/TextureViewDemo/build/res/all/debug/values/values.xml
